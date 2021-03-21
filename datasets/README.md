@@ -1,4 +1,5 @@
 ## Dataset
-Variable: significant wave height
-Device measurment: Buoy
-Source: NOAA
+- Variable: significant wave height (SWH)
+- Device measurment: Buoy
+- Source: NOAA
+<br> Each dataset represent SWH in different location that gathered from NOAA Bouy. The timeframe of each dataset is uncertain, for detailed info, can be check inside the file.
